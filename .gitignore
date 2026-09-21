@@ -48,3 +48,11 @@ Icon
 # ---------------
 
 /site/config/.license
+
+/kirby
+/site/accounts/*
+!/site/accounts/index.html
+/site/cache/*
+!/site/cache/index.html
+/site/sessions/*
+!/site/sessions/index.html
