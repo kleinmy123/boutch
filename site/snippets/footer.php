@@ -1,0 +1,1 @@
+<?= js(['assets/js/main.js', 'assets/js/gallery.js']) ?>

@@ -1,3 +1,2 @@
 Title: Home
 ----
-Text: This is RJ
