@@ -56,3 +56,5 @@ Icon
 !/site/cache/index.html
 /site/sessions/*
 !/site/sessions/index.html
+
+/media
