@@ -1,6 +1,0 @@
-Title: info
-----
-Text: lebt und arbeitet in Karlsruhe, Deutschland.
-<br>Hat an der Akademie studiert.
-----
-Contact: martinboukhalfa@e-mail.com
