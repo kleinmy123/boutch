@@ -5,8 +5,7 @@
             <img src="<?= $image->url() ?>" alt="<?= $image->alt() ?>">
         </div>
         <div class="info">
-            <p class="info-title"><?= $image->title() ?></p>
-            <p class="info-caption"><?= $image->caption() ?></p>
+            <p class="info-title"><?= $image->title() ?>, <?= $image->caption() ?></p>
         </div>
     </div>
     <?php endforeach ?>
